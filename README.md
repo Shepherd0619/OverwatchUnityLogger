@@ -1,4 +1,5 @@
 # OverwatchUnityLogger
+English | [中文](https://github.com/Shepherd0619/OverwatchUnityLogger/blob/master/README_zh-CN.md#overwatchunitylogger)
 
 OverwatchLog is a logging utility for Unity, providing a more flexible and customizable alternative to Unity's built-in Debug.Log functions. It allows you to log messages with different log types, colors, and context objects.
 
