@@ -1,6 +1,6 @@
 // OverwatchLog
 // Shepherd0619
-// A enhanced logger for Unity.
+// An enhanced logger for Unity.
 using System;
 using System.Text;
 
